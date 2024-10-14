@@ -1,0 +1,12 @@
+{
+  "name": "ps-with-js",
+  "version": "1.0.0",
+  "description": "코딩 테스트 문제 풀이 기록용 레포지토리입니다. 이 레포지토리에서는 **JavaScript**를 사용하여 다양한 코딩 테스트 문제를 해결합니다.",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
