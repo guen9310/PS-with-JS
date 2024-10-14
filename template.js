@@ -33,16 +33,6 @@ function solution(a, b, c) {
 // console.log(solution(a, b, c)); // 기대 값: [기대 값]
 // console.log(solution(a, b, c)); // 기대 값: [기대 값]
 
-
-// 제출한 답변
-function solution(a, b, c) {
-    // 문제 해결을 위한 로직을 여기에 작성합니다.
-    var answer = 0;
-    
-    // 로직 작성 후 정답 값을 반환합니다.
-    return answer;
-}
-
 /**
  * 시간 복잡도:
  * - 입력 크기와 상관없이 수행되는 연산은 O(1)입니다.
