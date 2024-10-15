@@ -73,7 +73,7 @@ console.log(solution("abcdefghijklmn.p")); // 기대 값: "abcdefghijklmn"
  */
 
 // 개선된 답변
-function solution(new_id) {
+function solutionImproved(new_id) {
     new_id = new_id.toLowerCase()
         .replace(/[^a-z0-9-_.]/g, '')
         .replace(/\.+/g, '.')

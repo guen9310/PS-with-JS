@@ -59,7 +59,7 @@ console.log(solution([1, 10, 3, 3, 3], 3)); // 기대 값: 17
 
 
 // 개선된 답변
-function maximalScore(nums, k) {
+function solutionImproved(nums, k) {
     const pq = new MaxPriorityQueue(); // 최대 우선순위 큐 생성
     let result = 0;
 
